@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Straw Hat Wiki</string>
+    <string name="strawhats_name">Nama Anggota</string>
+    <string name="description">Deskripsi</string>
+    <string name="about_author">About Author</string>
+    <string name="background_image"><![CDATA[https://images8.alphacoders.com/663/663022.jpg]]></string>
+    <string name="share">Share</string>
+    <string name="bounty_title">Latest Bounty</string>
+    <string-array name="data_name">
+        <item>Monkey D. Luffy</item>
+        <item>Roronoa Zoro</item>
+        <item>Nami</item>
+        <item>Usopp</item>
+        <item>Sanji</item>
+        <item>Tony Tony Chopper</item>
+        <item>Nico Robin</item>
+        <item>Franky</item>
+        <item>Brook</item>
+        <item>Jinbe</item>
+    </string-array>
+    <string-array name="data_position">
+        <item>Captain</item>
+        <item>Swordsman and unofficial first mate</item>
+        <item>Navigator and unofficial quartermaster and treasurer</item>
+        <item>Sniper</item>
+        <item>Chef</item>
+        <item>Doctor</item>
+        <item>Archaeologist</item>
+        <item>Shipwright</item>
+        <item>Musician</item>
+        <item>Helmsman</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Monkey D. Luffy, commonly known as "Straw Hat Luffy" or simply "Straw Hat", is the founder, captain, and strongest combatant of the increasingly infamous and powerful Straw Hat Pirates. He fearlessly pursues the legendary treasure of the late Gol D. Roger in order to become the new Pirate King, and reach a further, untold dream (currently known to only his crew and closest friends). He believes that being the Pirate King means having the most freedom in the world.</item>
+        <item>Roronoa Zoro, also known as "Pirate Hunter" Zoro, is a main combatant of the Straw Hat Pirates, one of their two swordsmen, one of the Senior Officers of the Straw Hat Grand Fleet, and is publicly recognized as the right-hand man of his crew\'s captain Monkey D. Luffy. Formerly a bounty hunter, he is the second member of Luffy\'s crew and the first to join it, doing so in the Romance Dawn Arc.</item>
+        <item>"Cat Burglar" Nami is the navigator of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. She is the third member of the crew and the second to join, doing so during the Orange Town Arc. She is the adoptive sister of Nojiko after the two were orphaned and taken in by Bell-mère.</item>
+        <item>"God" Usopp is the sniper of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. He is the fourth member of the crew and the third to join, doing so at the end of the Syrup Village Arc. Although he left the crew during the Water 7 Arc, he rejoined at the end of the Post-Enies Lobby Arc.</item>
+        <item>"Black Leg" Sanji, born as Vinsmoke Sanji, is the cook of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. He is the fifth member of the crew and the fourth to join, doing so at the end of the Baratie Arc.</item>
+        <item>Tony Tony Chopper, also known as "Cotton Candy Lover" Chopper, is the doctor of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. He is the sixth member of the crew and the fifth to join, doing so at the end of the Drum Island Arc. He was temporarily forced to join the Foxy Pirates during the Long Ring Long Land Arc, but was quickly returned to Luffy\'s crew.</item>
+        <item>Nico Robin, also known by her epithet "Devil Child" and the "Light of the Revolution", is the archaeologist of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. She is the seventh member of the crew and the sixth to join, doing so at the end of the Arabasta Arc. She temporarily left the crew during the Water 7 Arc but rejoined during the Enies Lobby Arc.</item>
+        <item>"Iron Man" Franky is the shipwright of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. He is the crew\'s eighth member and the seventh to join, doing so at the end of the Post-Enies Lobby Arc.</item>
+        <item>"Soul King" Brook is the musician of the Straw Hat Pirates, one of their two swordsmen, and one of the Senior Officers of the Straw Hat Grand Fleet. He is the ninth member of the crew and the eighth to join, doing so at the end of the Thriller Bark Arc.</item>
+        <item>"Knight of the Sea" Jinbe is the helmsman of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. He is the tenth member of the crew and the ninth to join, doing so during the Wano Country Arc.</item>
+    </string-array>
+    <string-array name="data_more_description">
+        <item>Born on Dawn Island, Luffy is the son of Revolutionary leader Monkey D. Dragon and grandson of the Marine hero Monkey D. Garp, and as such a carrier of the mysterious "D" legacy. Most of his childhood was shaped by Garp and Curly Dadan, under whose care he befriended and swore brotherhood to the late Portgas D. "Fire Fist" Ace and Revolutionary officer Sabo. However, he draws his greatest inspiration from the pirate "Red-Haired" Shanks, who (unwittingly) enabled him to eat the Devil Fruit that turned his body into rubber, sacrificed an arm to save his life, and gifted his signature straw hat as a symbol of their vow to reunite someday, after Luffy became a great pirate.</item>
+        <item>Born in the East Blue, Zoro is the son of Tera and Roronoa Arashi, the grandson of Shimotsuki Furiko and Roronoa Pinzoro, and the grandnephew of Shimotsuki Ushimaru, making him a descendant of both the Shimotsuki Family of Wano Country and the legendary samurai, Shimotsuki Ryuma. As a master of Three Sword Style, a swordsmanship style which he created during his childhood training in Shimotsuki Village, Zoro is one of the three most powerful combatants of the Straw Hats, alongside Luffy and Sanji, who are referred to as the "Monster Trio". His dream is to become the greatest swordsman in the world, in order to honor a promise he made to his deceased childhood friend and distant cousin Kuina.</item>
+        <item>She was formerly a member of the Arlong Pirates and initially joined the Straw Hats so that she could rob them in order to buy back her village from Arlong. However, she legitimately joined the Straw Hats after they rebelled against and defeated Arlong. Her dream is to make a map of the entire world.</item>
+        <item>Usopp is the son of Yasopp and the late Banchina. He was born and raised in Syrup Village, serving as "captain" of the Usopp Pirates and being Kaya\'s close friend. After working with the Straw Hats to defeat Kuro and the Black Cat Pirates, he was invited to join the crew. Despite his usual cowardice, Usopp dreams of becoming a brave warrior of the sea just like his father and lives every day in pursuit of living up to this dream.</item>
+        <item>Born as the third son and fourth child of the Vinsmoke Family (thus, making him a former prince of the Germa Kingdom), he disowned his family twice, once in his youth and again after reuniting with them as an adult. After fleeing the Vinsmokes as a child, he eventually entered the care of Zeff as the sous chef of the Baratie, where he would remain until he met Monkey D. Luffy, who convinced him to join his crew.</item>
+        <item>Chopper is a reindeer that ate the Hito Hito no Mi, a Devil Fruit that allows its user to transform into a human hybrid at will. He was taught medicine on Drum Island by his two parental figures, Doctors Hiriluk and Kureha. Chopper aims to travel all across the world in the hopes of accomplishing his dream of being able to cure any disease.</item>
+        <item>Born into a family of archaeologists, Robin is the daughter of Nico Olvia and an unknown man. Robin ate the Hana Hana no Mi at a young age, giving her the power to reproduce her body parts (or her entire body) on any surface at will. As the sole survivor of the destroyed West Blue island Ohara, she is currently one of only two people in the world known to have the ability to read and decipher Poneglyphs, a skill which is considered forbidden and threatening to the World Government.</item>
+        <item>Born "Cutty Flam", he chose to go by his nickname of "Franky" until eventually permanently discarding his true name per the request of Iceburg to hide his identity. Originally from the South Blue, Franky was abandoned by his family as a four-year-old, eventually making his way to Water 7. There, he came to be a member of Tom\'s Workers, until an incident resulted in his body being heavily damaged and requiring him to augment himself into a cyborg. Upon returning to Water 7, he became the leader of the Franky Family, a group of ship dismantlers and bounty hunters.</item>
+        <item>Brook ate the Yomi Yomi no Mi, which allowed him to return to life after death once. Brook eventually learned to tap deeper into the powers of his Devil Fruit, giving him significant control over his own soul and the souls of others.</item>
+        <item>Jinbe is a whale shark fish-man and a powerful master of Fish-Man Karate. His dream is to fulfill his former captain Fisher Tiger\'s dying wish of coexistence and equality between humans and fish-men. He was a member of the Sun Pirates, eventually becoming its second captain after the death of their original captain, Tiger. He eventually became one of the Seven Warlords of the Sea, though he resigned during the Summit War of Marineford. Vegapunk later cloned Jinbe as one of the Seraphim, S-Shark, to replace the Warlords.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://images3.alphacoders.com/134/1346857.png</item>
+        <item>https://images3.alphacoders.com/134/1345517.jpeg</item>
+        <item>https://images2.alphacoders.com/133/1339471.png</item>
+        <item>https://images3.alphacoders.com/737/737886.png</item>
+        <item>https://images.alphacoders.com/790/790561.png</item>
+        <item>https://images8.alphacoders.com/643/643491.jpg</item>
+        <item>https://images8.alphacoders.com/951/951388.jpg</item>
+        <item>https://images8.alphacoders.com/132/1326576.jpeg</item>
+        <item>https://images8.alphacoders.com/132/1326226.jpeg</item>
+        <item>https://images5.alphacoders.com/133/1335770.jpeg</item>
+    </string-array>
+    <string-array name="data_bounty">
+        <item>3,000,000,000</item>
+        <item>1,111,000,000</item>
+        <item>366,000,000</item>
+        <item>500,000,000</item>
+        <item>1,032,000,000</item>
+        <item>1,000</item>
+        <item>930,000,000</item>
+        <item>394,000,000</item>
+        <item>383,000,000</item>
+        <item>1,100,000,000</item>
+    </string-array>
+</resources>
